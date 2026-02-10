@@ -52,21 +52,64 @@ export const projects = [
     title: "SkillUp Institute Website",
     description: "Primary website for SkillUp Institute including student/teacher dashboards, exam modules, and certificate generation.",
     techStack: ["Next.js", "React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
-    link: "https://www.skillupinstitute.co.in/"
+    link: "https://www.skillupinstitute.co.in/",
+    image: ""
   },
   {
     id: "proj_003",
     title: "Online Attendance System",
     description: "Attendance web app used for institute student attendance management.",
     techStack: ["Next.js", "React", "MongoDB", "Vercel"],
-    link: "https://onlineattendance-two.vercel.app/"
+    link: "https://onlineattendance-two.vercel.app/",
+    image: ""
+  },
+  {
+    id: "proj_004",
+    title: "Job Institute Website",
+    description: "Job application platform for institutes with comprehensive job listing and application management features.",
+    techStack: ["Next.js", "React", "MongoDB", "Vercel"],
+    link: "https://job-app-inky-three.vercel.app/",
+    image: ""
+  },
+  {
+    id: "proj_005",
+    title: "Institute Demo Website",
+    description: "Demo application showcasing modern institute website features and functionality.",
+    techStack: ["Next.js", "React", "Tailwind CSS"],
+    link: "https://demo-app-seven-tau.vercel.app/",
+    image: ""
+  },
+  {
+    id: "proj_006",
+    title: "Manji Healthcare",
+    description: "Healthcare management application for doctors and patients with appointment scheduling and medical records.",
+    techStack: ["React", "Node.js", "Express", "MongoDB"],
+    link: "https://www.manjithealthcare.com/",
+    image: ""
+  },
+  {
+    id: "proj_007",
+    title: "Nationwide Immigration Services",
+    description: "Immigration services website providing information and application management for immigration processes.",
+    techStack: ["React", "Node.js", "Express"],
+    link: "https://www.nationwideservices.co.in/",
+    image: ""
+  },
+  {
+    id: "proj_008",
+    title: "Demo Portfolio PDF",
+    description: "Interactive PDF portfolio showcasing projects and professional work samples.",
+    techStack: ["HTML", "CSS", "JavaScript"],
+    link: "https://mahi-singh03.github.io/Demo-Link/",
+    image: ""
   },
   {
     id: "proj_002",
     title: "Staff Management App (Design)",
     description: "Planned staff management application for assigning tasks, tracking progress and attendance.",
     techStack: ["React", "Node.js", "Express", "MongoDB"],
-    link: null
+    link: null,
+    image: ""
   }
 ];
 
